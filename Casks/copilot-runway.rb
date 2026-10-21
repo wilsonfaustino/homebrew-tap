@@ -1,7 +1,7 @@
 cask "copilot-runway" do
-  version "0.8.1"
+  version "0.8.2"
   # CI replaces version and sha256 when it copies this file into the tap.
-  sha256 "40bc47f6c372e2bc824ed9077ab988b398b6a7ca71738468aaad888f07dc6db0"
+  sha256 "32741892627890fb6c9cf6bb414398aa8f081a33043c24b4a19d3cc93edcfc43"
 
   url "https://github.com/wilsonfaustino/copilot-runway/releases/download/v#{version}/CopilotRunway-#{version}.zip"
   name "Copilot Runway"
