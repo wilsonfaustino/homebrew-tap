@@ -2,6 +2,12 @@
 
 Homebrew tap for macOS menu bar apps.
 
+Homebrew refuses to load a cask from a third-party tap until you trust the tap. Run this once:
+
+```sh
+brew trust wilsonfaustino/tap
+```
+
 ## Copilot Runway
 
 [Copilot Runway](https://github.com/wilsonfaustino/copilot-runway) shows GitHub Copilot credit runway.
