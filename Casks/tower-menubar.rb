@@ -1,7 +1,7 @@
 cask "tower-menubar" do
-  version "0.6.0"
+  version "0.7.0"
   # CI replaces version and sha256 when it copies this file into the tap.
-  sha256 "0c00e77b82b5eef5f41ce50698b5cea782984630054a8169e9fc67b12d95adeb"
+  sha256 "a042944ca1c4c9546ea717389460f4022230a9ad8be80cb4d3ecccd335212eb4"
 
   url "https://github.com/wilsonfaustino/tower/releases/download/v#{version}/Tower-#{version}.zip"
   name "Tower"
